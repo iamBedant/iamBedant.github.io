@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.jain.vidhyasagarsant",
+    "package_name": "io.iambedant.instantappstarter",
     "sha256_cert_fingerprints":
-    ["98:BA:E5:24:F4:75:6C:93:57:D2:4B:DC:43:C9:A0:40:81:32:CE:A9:93:7C:31:50:49:34:F1:98:FA:2C:AC:0F"]
+    ["B3:B2:9F:E3:B1:B3:6A:BA:1F:06:8E:A0:2E:94:E1:4D:53:D1:25:1C:41:41:93:65:6C:3D:42:FA:43:A5:D0:EF"]
   }
 }]
