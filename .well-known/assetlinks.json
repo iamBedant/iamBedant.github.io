@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.iambedant.instantappstarter",
+    "package_name": "com.iambedant.instantappstarter.app",
     "sha256_cert_fingerprints":
     ["C7:A4:C4:55:EF:4B:A0:04:76:7A:13:89:29:40:49:F3:EC:F5:87:4B:11:2D:FD:DF:C7:21:FA:D1:2F:7E:0C:CC"]
   }
